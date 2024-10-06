@@ -18,6 +18,7 @@
 
     <a href="about.html" >
     <img width= 200 src="asets/shafa.jpeg" alt="Tentang Saya">
+    ![alt text](https://github.com/shafanabila11/tugas-pemrograman-web/blob/main/shafa.jpeg?raw=true)
     </a>
     <hd>
     <video
